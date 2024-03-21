@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/MJShinpain/classic_schedule.git/sitemap.xml
+Sitemap: https://mjshinpain.github.io/classic_schedule/sitemap.xml
